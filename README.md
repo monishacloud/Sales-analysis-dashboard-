@@ -1,3 +1,4 @@
+<img width="690" height="373" alt="Screenshot chat1 chat2 chat3" src="https://github.com/user-attachments/assets/9f1544b3-16b1-4a1b-80b2-4d2778282296" />
 
 <img width="665" height="406" alt="dashboard_overview  png 2" src="https://github.com/user-attachments/assets/f2639295-9fab-4f78-943b-3e0d5cd15fe1" />
 <img width="531" height="292" alt="screenshot top 10 cities by sales" src="https://github.com/user-attachments/assets/448bdbcb-00b5-49c0-8129-16f181fdf192" />
