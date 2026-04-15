@@ -1,3 +1,13 @@
+
+
+
+
+
+
+
+<img width="531" height="292" alt="screenshot top 10 cities by sales" src="https://github.com/user-attachments/assets/448bdbcb-00b5-49c0-8129-16f181fdf192" />
+<img width="664" height="375" alt="screenshot monthuly sales trend" src="https://github.com/user-attachments/assets/d6886a87-ecdb-4c8d-9589-5ab8c4edd69a" />
+<img width="669" height="378" alt="dashboard_overview  png 1" src="https://github.com/user-attachments/assets/e58c8c43-69b1-42b7-8f8e-98b959ecab81" />
 # Sales Analysis Dashboard 📊
 
 ## Project Overview
