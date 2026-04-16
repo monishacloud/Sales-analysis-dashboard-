@@ -48,7 +48,7 @@ LIMIT 10
 
 city_data = pd.read_sql(query, conn)
 
-print(city_data)  # output
+print(city_data) 
 
 plt.figure()
 plt.bar(city_data['City'], city_data['Total_Sales'])
@@ -67,7 +67,7 @@ ORDER BY Month
 
 monthly_data = pd.read_sql(query, conn)
 
-print(monthly_data)  # output
+print(monthly_data) 
 
 plt.figure()
 plt.plot(monthly_data['Month'], monthly_data['Sales'])
